@@ -100,7 +100,7 @@ class _PriceScreenState extends State<PriceScreen> {
           title: Text('🤑 Coin Ticker'),
           centerTitle: true,
           backgroundColor: Colors.deepPurple,
-          AP),
+          ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         crossAxisAlignment: CrossAxisAlignment.stretch,
